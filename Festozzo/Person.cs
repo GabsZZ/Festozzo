@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Festozzo
 {
-    class Person
+    public class Person
     {
+
     }
 }
